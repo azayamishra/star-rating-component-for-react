@@ -1,0 +1,16 @@
+.rating-stars-container {
+  display: flex;
+}
+
+.rating-stars-wrapper {
+  overflow: hidden;
+  position: relative;
+}
+
+.rating-star {
+  display: block;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  color: gray;
+}
